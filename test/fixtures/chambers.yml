@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  current_recipe_id: 
+  starttime: 2020-02-12 23:37:16
+
+two:
+  current_recipe_id: 
+  starttime: 2020-02-12 23:37:16
